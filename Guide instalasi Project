@@ -1,0 +1,12 @@
+instal composer require laravel/ui
+instal php artisan ui bootsrap --auth
+Buat database pada phpmyadmin
+connect env database
+buat API google dan dapatkan client_id dan secrete key
+masukan id dan key pada env
+install library socialite
+socialite di gunakan pada controller
+buat tabel baru pada user untuk menampung id
+migrate table
+sambungkan controller pada route
+login dapat di gunakan
